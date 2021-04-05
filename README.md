@@ -42,7 +42,7 @@
 </p>
 -->
 <p align="center">
-    <img align="center" alt="sutharp777's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seepls" />
+    <img align="center" alt="seepls's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seepls" />
 </p>
 <br>
 <br>
