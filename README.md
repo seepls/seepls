@@ -3,7 +3,7 @@
   <h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I am Smriti </h1>
 </p>
 
-![](https://github.com/seepls/seepls/blob/main/c2.png)
+![](https://github.com/seepls/seepls/blob/main/a1.png)
 
 <!--
 <h4 align="center"> I’m currently working on :octocat: <a href="https://www.ideseven.live/">online web ide</a>
