@@ -4,9 +4,9 @@
 </p>
 
 
-
+<p align="center">
 ![](https://github.com/seepls/seepls/blob/main/Mfinance.png)
-
+</p>
 <!--
 <h4 align="center"> I’m currently working on :octocat: <a href="https://www.ideseven.live/">online web ide</a>
   </h4>
