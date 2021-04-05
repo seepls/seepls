@@ -10,7 +10,7 @@
   </h4>
 -->  
 <h4 align="center">
-    <b> 2021 Goal to work on Mathematics related Open Source Project :octocat: </b>
+    <b> 2021 Goal : work on Mathematics and Finance related Open Source Projects :octocat: </b>
 </h4>
 
 
