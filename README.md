@@ -12,12 +12,9 @@
   </h4>
 -->  
 <h4 align="center">
-    <b> 2021 Goals: Contribute more to Open Source projects :octocat: </b>
+    <b> 2021 Goal to work on Mathematics related Open Source Project :octocat: </b>
 </h4>
 
-![conrtribution chart](https://user-images.githubusercontent.com/49487927/111588608-cc522f80-87e9-11eb-9018-e2aa406ea2c3.gif)
-
-<br>
 
 <p align="center">
   
