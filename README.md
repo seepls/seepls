@@ -3,12 +3,9 @@
   <h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I am Smriti </h1>
 </p>
 
-![](https://github.com/seepls/seepls/blob/main/a1.png)
 
-<!--
-<h4 align="center"> I’m currently working on :octocat: <a href="https://www.ideseven.live/">online web ide</a>
-  </h4>
--->  
+
+
 <h4 align="center">
     <b> 2021 Goal : work on Mathematics and Finance related Open Source Projects :octocat: </b>
 </h4>
