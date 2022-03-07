@@ -7,7 +7,7 @@
 
 
 <h4 align="center">
-    <b> 2021 Goal : work on Mathematics and Finance related Open Source Projects :octocat: </b>
+    <b> 2022 Goal : Create Quantitative Solutions :octocat: </b>
 </h4>
 
 
