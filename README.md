@@ -7,7 +7,7 @@
 
 
 <h4 align="center">
-    <b> 2022 Goal : Create Quantitative Solutions :octocat: </b>
+    <b> 2023 Goal : xVA and PFE :octocat: </b>
 </h4>
 
 
