@@ -39,7 +39,8 @@
 </p>
 -->
 <p align="center">
-    <img align="center" alt="seepls's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=seepls" />
+    <img align="center" alt="seepls's Github Stats" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seepls)](https://git.io/streak-stats)" />
+  
 </p>
 <br>
 <br>
