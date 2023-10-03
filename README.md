@@ -35,7 +35,7 @@
 
 <!--
 <p align="center">
-    <img align="center" alt="sutharp777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seepls&show_icons=true&hide_border=true" />
+    <img align="center" alt="seepls's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seepls&show_icons=true&hide_border=true" />
 </p>
 -->
 <p align="center">
